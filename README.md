@@ -1,4 +1,4 @@
-# nanoGPT
+# YusufGPT
 
 A decoder-only transformer language model, built from scratch in PyTorch.
 
